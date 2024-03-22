@@ -4,6 +4,7 @@
 	"description": "My fork of freeCodeCamp npm course",
 	"keywords": [ "freecodecamp", "npm", "fork" ],
 	"license": "MIT",
+	"version": "0.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
